@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 067f61331464cd645aac5053892bfbe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7008462282871882925
+    second: Kevar_0
+  - first:
+      213: 8394544985129344202
+    second: Kevar_1
+  - first:
+      213: -2755381889668705842
+    second: Kevar_2
+  - first:
+      213: -6109823690707051573
+    second: Kevar_3
+  - first:
+      213: -4778362332434543914
+    second: Kevar_4
+  - first:
+      213: 1749966703389853572
+    second: Kevar_5
+  - first:
+      213: -5739369336439831630
+    second: Kevar_6
+  - first:
+      213: -7892740000963250141
+    second: Kevar_7
+  - first:
+      213: 5709940658262568191
+    second: Kevar_8
+  - first:
+      213: -4845240274114870548
+    second: Kevar_0
+  - first:
+      213: 5618964790956386539
+    second: Kevar_1
+  - first:
+      213: -8501509731372020265
+    second: Kevar_2
+  - first:
+      213: 6352730117639153132
+    second: Kevar_3
+  - first:
+      213: -479123946089955422
+    second: Kevar_4
+  - first:
+      213: -6323998567233863476
+    second: Kevar_5
+  - first:
+      213: 4868834234378688458
+    second: Kevar_6
+  - first:
+      213: 1243444755967717209
+    second: Kevar_7
+  - first:
+      213: 6814086938141410413
+    second: Kevar_8
+  - first:
+      213: -2871159903332835012
+    second: Kevar_9
+  - first:
+      213: -4855128045653252449
+    second: Kevar_10
+  - first:
+      213: 7717542617841567900
+    second: Kevar_11
+  - first:
+      213: -5877445877448089010
+    second: Kevar_12
+  - first:
+      213: 7725402802758237310
+    second: Kevar_13
+  - first:
+      213: 6784528400693268399
+    second: Kevar_14
+  - first:
+      213: 4140538758302565988
+    second: Kevar_15
+  - first:
+      213: -2395809304527764065
+    second: Kevar_16
+  - first:
+      213: -302431964635640981
+    second: Kevar_17
+  - first:
+      213: 6955647454354770459
+    second: Kevar_18
+  - first:
+      213: -4188163631167134077
+    second: Kevar_19
+  - first:
+      213: -2948232415964580032
+    second: Kevar_20
+  - first:
+      213: 7737686273148909460
+    second: Kevar_21
+  - first:
+      213: -1082271839889906222
+    second: Kevar_22
+  - first:
+      213: -711253945627430905
+    second: Kevar_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kevar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce287f154af32ccb0800000000000000
+      internalID: -4845240274114870548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 335
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e162f4b29afd40800000000000000
+      internalID: 5618964790956386539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 335
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd4b0731f1940a80800000000000000
+      internalID: -8501509731372020265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5aecf326e692850800000000000000
+      internalID: 6352730117639153132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 286
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afbced3f4fc959f0800000000000000
+      internalID: -479123946089955422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 286
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc042ff1fc4ac38a0800000000000000
+      internalID: -6323998567233863476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac71762a0f2919340800000000000000
+      internalID: 4868834234378688458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 237
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f2741ea6a914110800000000000000
+      internalID: 1243444755967717209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 237
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d644c88b7ff709e50800000000000000
+      internalID: 6814086938141410413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31608ca7479728d0800000000000000
+      internalID: -2871159903332835012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 188
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962dcb14ce1f9cb0800000000000000
+      internalID: -4855128045653252449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kevar_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 188
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9882632f183a1b60800000000000000
+      internalID: 7717542617841567900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

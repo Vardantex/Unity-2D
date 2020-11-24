@@ -5,7 +5,7 @@ using UnityEngine;
 public class Obstacle : MonoBehaviour
 {
     public Rigidbody2D rgbody;
-    public Vector2 velocity = new Vector2(-4, 0);
+    public Vector2 velocity = new Vector2(8, 0);
     public float range = 4;
 
     // Start is called before the first frame update
